@@ -82,6 +82,7 @@ Project Demo:
 ✔Flask Code(app.py)
 
 
+
 🎯 Future Enhancements:
 
 Integration with wearable devices
