@@ -4,22 +4,23 @@ A Flask-based intelligent fitness recommendation system that leverages machine l
 
 Project Overview
 
-FitFusion is a smart fitness web app built to empower beginners in their fitness journey(gym enthusiasts) by delivering tailored workout routines, nutritional advice, progress tracking, and motivational content. Designed for both beginners and fitness enthusiasts, the application makes personalized training accessible using advanced machine learning models, Flask-based architecture, and MySQL database integration.
+FitFusion is an innovative fitness web app built to empower beginners in their fitness journey(gym enthusiasts) by delivering tailored workout routines, nutritional advice, progress tracking, and motivational content. Designed for beginners and fitness enthusiasts, the application makes personalized training accessible using advanced machine learning models, Flask-based architecture, and MySQL database integration.
 
 🚀Key Features
+
 🧮 BMI Calculator – Calculates BMI according to the user input.
 
 🧠 ML-Powered Recommendation Engine – Uses Random Forest & Decision Tree algorithms to provide the workout.
 
-🥗 Diet Plan Generator – Personalized based on fitness goals (build, lose, maintain) with a pdf version available.
+🥗 Diet Plan Generator – Personalized based on fitness goals (build, lose, maintain) with a PDF version available.
 
 📈 Progress Tracker – Regression model to analyze performance and adjust plans.
 
-🧘 Workout Mistake Detection – Educational content to avoid common errors with a video demostration to reduce those errors.
+🧘 Workout Mistake Detection – Educational content to avoid common errors with a video demonstration to reduce those errors.
 
 📹 Embedded Video Support – Instructional demos for better understanding.
 
-🧑‍🤝‍🧑 Community-Oriented – Future ready for social interaction and feedback loops.
+🧑‍🤝‍🧑 Community-Oriented – Future-ready for social interaction and feedback loops.
 
 The technology stack involved:
 
@@ -50,7 +51,9 @@ User Dashboard (BMI, Plan, Exercises, Diet, Progress Tracker)
 ![image](https://github.com/user-attachments/assets/79573fa8-594e-4776-b1ee-24536209eb38)
 
 📅 Project Timeline Highlights
+
 Phase	Tasks:
+
 Sprint 1	Project proposal & planning
 Sprint 2	Dataset collection & preprocessing
 Sprint 3	Model training & validation
@@ -64,6 +67,7 @@ Project Demo:
 
 
 📚 Documentation attached:
+
 ✔ Final Project Report
 
 ✔ Literature Review
@@ -74,6 +78,7 @@ Project Demo:
 
 
 🎯 Future Enhancements:
+
 Integration with wearable devices
 
 Real-time feedback through NLP
