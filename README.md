@@ -50,6 +50,7 @@ User Dashboard (BMI, Plan, Exercises, Diet, Progress Tracker)
 
 ![image](https://github.com/user-attachments/assets/79573fa8-594e-4776-b1ee-24536209eb38)
 
+
 📅 Project Timeline Highlights
 
 Phase	Tasks:
@@ -66,9 +67,11 @@ Sprint 5	Integration & UI design
 
 Sprint 6	Testing, optimization, documentation(Runs on cloud initially)
 
+
 Project Demo:
 
 ![image](https://github.com/user-attachments/assets/4983c1d5-2233-4345-a143-94bdbf861e9f)
+
 
 
 📚 Documentation attached:
