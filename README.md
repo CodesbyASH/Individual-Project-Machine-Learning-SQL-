@@ -1,4 +1,5 @@
 **FitFusion Assistant: Personalized Fitness Generator**
+
 A Flask-based intelligent fitness recommendation system that leverages machine learning for personalized workout and diet planning.
 
 Project Overview
