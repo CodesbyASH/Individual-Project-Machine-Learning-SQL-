@@ -22,6 +22,7 @@ FitFusion is an innovative fitness web app built to empower beginners in their f
 
 🧑‍🤝‍🧑 Community-Oriented – Future-ready for social interaction and feedback loops.
 
+
 The technology stack involved:
 
 Frontend:	HTML5, CSS Templates
@@ -30,6 +31,7 @@ Database:	MySQL
 Machine Learning Libraries:	Scikit-learn (Random Forest, Regression, Decision Trees), Pandas, NumPy
 Visualization & Docs:	Matplotlib, PDFKit, Markdown
 
+
 📊 Machine Learning Models
 
 Model	Purpose
@@ -37,6 +39,7 @@ Model	Purpose
 Random Forest Classifier: To	predict suitable workout plans based on user inputs (age, BMI, goal, muscle group).
 Decision Tree:	Recommends dietary options aligned with fitness objectives.
 Regression Analysis:	Predicts user progress (e.g., BMI change, strength gains) over time.
+
 
 🧱 System Architecture
 
