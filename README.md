@@ -55,10 +55,15 @@ User Dashboard (BMI, Plan, Exercises, Diet, Progress Tracker)
 Phase	Tasks:
 
 Sprint 1	Project proposal & planning
+
 Sprint 2	Dataset collection & preprocessing
+
 Sprint 3	Model training & validation
+
 Sprint 4	Flask app development
+
 Sprint 5	Integration & UI design
+
 Sprint 6	Testing, optimization, documentation(Runs on cloud initially)
 
 Project Demo:
