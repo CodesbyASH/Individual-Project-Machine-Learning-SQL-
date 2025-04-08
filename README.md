@@ -30,7 +30,9 @@ Machine Learning Libraries:	Scikit-learn (Random Forest, Regression, Decision Tr
 Visualization & Docs:	Matplotlib, PDFKit, Markdown
 
 📊 Machine Learning Models
+
 Model	Purpose
+
 Random Forest Classifier: To	predict suitable workout plans based on user inputs (age, BMI, goal, muscle group).
 Decision Tree:	Recommends dietary options aligned with fitness objectives.
 Regression Analysis:	Predicts user progress (e.g., BMI change, strength gains) over time.
