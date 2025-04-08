@@ -25,10 +25,14 @@ FitFusion is an innovative fitness web app built to empower beginners in their f
 
 The technology stack involved:
 
-Frontend:	HTML5, CSS Templates
+Frontend:	HTML5, Bootstrap Templates
+
 Backend:	Python (Flask), SQLAlchemy
+
 Database:	MySQL
+
 Machine Learning Libraries:	Scikit-learn (Random Forest, Regression, Decision Trees), Pandas, NumPy
+
 Visualization & Docs:	Matplotlib, PDFKit, Markdown
 
 
